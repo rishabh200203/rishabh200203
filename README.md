@@ -2,7 +2,7 @@
 <h3 align="center">A Curious Full Stack developer from India</h3>
 
 
-- 🔭 Try Hard Project Manager**
+- 🔭 Trying to be.. **Project Manager**
 
 - 🌱 I’m currently learning **Advance JS and PHP**
 
