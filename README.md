@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advance JS and PHP**
 
-- 💬 Ask me about **HTML, CSS, JS, SQL, PHP**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **rishabhcam003@gmail.com**
 
